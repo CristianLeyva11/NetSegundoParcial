@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\data\\mvcmoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\data\\mvcmoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\migrations\\20240523011241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\migrations\\20240523011241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|c:\\users\\cristian leyva\\net\\mvcmovies\\mvcmovies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F13E5C10-1A8D-4CD7-9263-E1EB8B59C6F9}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MvcMoviesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Data\\MvcMoviesContext.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Data\\MvcMoviesContext.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Data\\MvcMoviesContext.cs",
+              "RelativeToolTip": "MvcMovies\\Data\\MvcMoviesContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:25:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240523011241_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Migrations\\20240523011241_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Migrations\\20240523011241_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Migrations\\20240523011241_InitialCreate.cs",
+              "RelativeToolTip": "MvcMovies\\Migrations\\20240523011241_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:12:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovies\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAADwvyAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:03:37.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Models\\Movies.cs",
+              "RelativeToolTip": "MvcMovies\\Models\\Movies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:36:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MvcMovies\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "MvcMovies\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:28:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMovies\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMovies\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:16:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovies\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MvcMovies\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:16:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\MvcMovies\\MvcMovies\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "MvcMovies\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:51:47.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

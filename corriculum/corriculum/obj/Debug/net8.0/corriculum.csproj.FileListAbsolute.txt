@@ -1,0 +1,60 @@
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\appsettings.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.staticwebassets.runtime.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.exe
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.deps.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.runtimeconfig.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.dll
+C:\Users\anadesa12\source\repos\corriculum\corriculum\bin\Debug\net8.0\corriculum.pdb
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.AssemblyInfoInputs.cache
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.AssemblyInfo.cs
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.csproj.CoreCompileInputs.cache
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.RazorAssemblyInfo.cache
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.RazorAssemblyInfo.cs
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.corriculum.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.build.corriculum.props
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.corriculum.props
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.corriculum.props
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\scopedcss\bundle\corriculum.styles.css
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\scopedcss\projectbundle\corriculum.bundle.scp.css
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.dll
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\refint\corriculum.dll
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.pdb
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\corriculum.genruntimeconfig.cache
+C:\Users\anadesa12\source\repos\corriculum\corriculum\obj\Debug\net8.0\ref\corriculum.dll
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\appsettings.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.staticwebassets.runtime.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.exe
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.deps.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.runtimeconfig.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.dll
+C:\Users\Cristian Leyva\net\corriculum\corriculum\bin\Debug\net8.0\corriculum.pdb
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.AssemblyInfoInputs.cache
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.AssemblyInfo.cs
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.RazorAssemblyInfo.cache
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.RazorAssemblyInfo.cs
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.corriculum.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.build.corriculum.props
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.corriculum.props
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.corriculum.props
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\scopedcss\bundle\corriculum.styles.css
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\scopedcss\projectbundle\corriculum.bundle.scp.css
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.dll
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\refint\corriculum.dll
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.pdb
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\corriculum.genruntimeconfig.cache
+C:\Users\Cristian Leyva\net\corriculum\corriculum\obj\Debug\net8.0\ref\corriculum.dll

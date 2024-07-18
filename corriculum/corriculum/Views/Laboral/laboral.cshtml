@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiencia Laboral</title>
+    <style>
+        footer {
+            display: none;
+        }
+
+        header {
+            display: none;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .cv {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 20px;
+        }
+
+        .cv-contenido {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .cv-titulo {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 15px;
+        }
+
+        .imagen img {
+            border-radius: 50%;
+            max-width: 150px;
+            margin-right: 20px;
+        }
+
+        .texto {
+            flex-grow: 1;
+        }
+
+        .texto-titulo h1 {
+            font-size: 2em;
+            margin: 0;
+            color: #007BFF;
+            text-align: center;
+        }
+
+        .texto-links {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+
+            .texto-links a {
+                color: #007BFF;
+                text-decoration: none;
+                padding: 10px 20px;
+                border: 2px solid #007BFF;
+                border-radius: 5px;
+                transition: background-color 0.3s, color 0.3s;
+            }
+
+                .texto-links a:hover {
+                    background-color: #007BFF;
+                    color: #fff;
+                }
+
+        .cv-parrafo {
+            margin: 10px 0;
+        }
+
+        .cv-parrafo-datos h2 {
+            font-size: 1.5em;
+            color: #007BFF;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+        }
+
+        .cv-parrafo-datos p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        .empresa {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+            .empresa h3 {
+                margin: 0;
+                color: #007BFF;
+            }
+
+            .empresa p {
+                margin: 0;
+                font-weight: bold;
+            }
+
+        .empresa1 ul {
+            list-style: none;
+            padding: 0;
+        }
+
+            .empresa1 ul li {
+                padding-left: 1.2em;
+                text-indent: -1.2em;
+                margin-bottom: 10px;
+            }
+
+                .empresa1 ul li::before {
+                    content: '•';
+                    color: #007BFF;
+                    padding-right: 0.5em;
+                }
+
+        .empresa1 strong {
+            display: block;
+            margin-top: 10px;
+        }
+
+        .empresa1 a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="cv">
+        <div class="cv-contenido">
+            <div class="cv-titulo">
+                <div class="imagen">
+                    <img src="/assets/foto.jpeg" alt="Foto">
+                </div>
+                <div class="texto">
+                    <div class="texto-titulo">
+                        <h1>Cristian Alejandro Leyva Collazo</h1>
+                    </div>
+                    <br />
+                    <div class="texto-links">
+                        <a href="/Inicio">Inicio</a>
+                        <a href="/Academica">Preparación académica</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cv-parrafo">
+                <div class="cv-parrafo-datos">
+                    <h2>Experiencia Laboral</h2>
+                  
+                    <br />
+                    <div class="empresa1">
+                        <h3>Desarrollador web</h3>
+                        <br />
+                        <div class="empresa">
+                            <p>CORVUZ</p>
+                            <p>2021-2023</p>
+                        </div>
+                        <br />
+                        <ul>
+                            <li>Contribuí significativamente al desarrollo de múltiples sitios web, incluyendo la página principal de Corvuz, Gempools, Shoes from Mexico, entre otros.</li>
+                            <li>Implementé interacciones dinámicas en el lado del cliente utilizando jQuery y tecnologías front-end como Stylus, CSS y HTML.</li>
+                            <li>Diseñé diagramas UML para planificar la arquitectura de software y asegurar la escalabilidad y la eficiencia.</li>
+                            <li>Participé en la mejora continua de aplicaciones web existentes y en la resolución de problemas técnicos.</li>
+                            <li>Trabajé en estrecha colaboración con equipos multidisciplinarios para garantizar la entrega exitosa de proyectos.</li>
+                        </ul>
+                        <strong>Proyectos donde he colaborado:</strong>
+                        <ul>
+                            <li><a href="https://shoesfrommexico.com/">shoesfrommexico.com</a></li>
+                            <li><a href="https://gempoolsconstruction.com/">gempoolsconstruction.com</a></li>
+                            <li><a href="https://www.corvuz.com/">corvuz.com</a></li>
+                            <li><a href="https://hommy.edu.mx/">hommy.edu.mx</a></li>
+                            <li><a href="https://www.epca.edu.mx/">epca.edu.mx</a></li>
+                        </ul>
+                    </div>
+                    <hr />
+                    <div class="empresa1">
+                        <h3>Analista Desarrollador</h3>
+                        <br />
+                        <div class="empresa">
+                            <p>GRUPO CASTORES SA DE CV</p>
+                            <p>2024 - continuo</p>
+                        </div>
+                        <br />
+                        <ul>
+                            <li>Continuo mejorando y desarrollando varios de sus sistemas como por ejemplo facturaciones, página de clientes, etc.</li>
+                        </ul>
+                    </div>
+                    <hr />
+                    <div class="empresa1">
+    
+                        <h3>Freelance</h3>
+                        <br />
+                        <ul>
+                            <li>Desarrollé e implementé el sistema de administración de una óptica, abarcando la gestión de ventas, clientes, empleados, inventario de armazones y más, para la empresa Optica Qualite.</li>
+                            <li>Desarrollé la página de Medinnova, una empresa especializada en una gama amplia de equipo médico, accesorios y servicios especializados que incluyen mantenimiento y remodelación hospitalaria.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

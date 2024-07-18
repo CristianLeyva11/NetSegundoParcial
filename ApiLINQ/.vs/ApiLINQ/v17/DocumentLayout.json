@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\models\\empleadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\models\\empleadodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|c:\\users\\cristian leyva\\net\\apilinq\\apilinq\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3687A02-50CC-45C1-A0C4-AC7C71C39021}|ApiLINQ\\ApiLINQ.csproj|solutionrelative:apilinq\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "ApiLINQ\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:02:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\EmpresaContext.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\EmpresaContext.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\EmpresaContext.cs",
+              "RelativeToolTip": "ApiLINQ\\EmpresaContext.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAN4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:55:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDepartamento.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\EmpleadoDepartamento.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Models\\EmpleadoDepartamento.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\EmpleadoDepartamento.cs",
+              "RelativeToolTip": "ApiLINQ\\Models\\EmpleadoDepartamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:33:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Ciudad.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Models\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Ciudad.cs",
+              "RelativeToolTip": "ApiLINQ\\Models\\Ciudad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:32:52.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Departamento.cs",
+              "RelativeToolTip": "ApiLINQ\\Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:32:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Models\\Empleado.cs",
+              "RelativeToolTip": "ApiLINQ\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:32:23.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "ApiLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\ApiLINQ\\ApiLINQ\\Program.cs",
+              "RelativeToolTip": "ApiLINQ\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T14:53:39.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

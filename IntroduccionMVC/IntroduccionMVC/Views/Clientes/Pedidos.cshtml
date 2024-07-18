@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Pedidos";
+}
+
+<h1>Registro de Pedidos</h1>
+<hr />
+<h3>Formulario</h3>
+<form method="post" style="max-width: 500px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+
+    <div style="margin-bottom: 15px;">
+        <label for="producto" style="display: block; margin-bottom: 5px;">Producto</label>
+        <input type="text" id="producto" name="producto" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label for="cantidad" style="display: block; margin-bottom: 5px;">Cantidad</label>
+        <input type="text" id="cantidad" name="cantidad" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    </div>
+
+    <div style="margin-bottom: 15px;">
+        <label for="fecha" style="display: block; margin-bottom: 5px;">Fecha</label>
+        <input type="date" id="fecha" name="fecha" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+    </div>
+
+    <input type="submit" value="Enviar" style="width: 100%; padding: 10px; border: none; border-radius: 5px; background-color: #28a745; color: white; font-size: 16px;" />
+</form>

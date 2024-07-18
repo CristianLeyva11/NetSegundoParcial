@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|c:\\users\\cristian leyva\\net\\nutricionista\\nutricionista\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|solutionrelative:nutricionista\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|c:\\users\\cristian leyva\\net\\nutricionista\\nutricionista\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|solutionrelative:nutricionista\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|c:\\users\\cristian leyva\\net\\nutricionista\\nutricionista\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|solutionrelative:nutricionista\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|c:\\users\\cristian leyva\\net\\nutricionista\\nutricionista\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|solutionrelative:nutricionista\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|c:\\users\\cristian leyva\\net\\nutricionista\\nutricionista\\migrations\\20240530003838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B460F3-0469-4D5B-9D25-197B335A4376}|Nutricionista\\Nutricionista.csproj|solutionrelative:nutricionista\\migrations\\20240530003838_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "RelativeToolTip": "Nutricionista\\Views\\Pacientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T05:13:25.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "RelativeToolTip": "Nutricionista\\Views\\Pacientes\\Index.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T00:40:40.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240530003838_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Migrations\\20240530003838_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Nutricionista\\Migrations\\20240530003838_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Migrations\\20240530003838_InitialCreate.cs",
+              "RelativeToolTip": "Nutricionista\\Migrations\\20240530003838_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:38:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Nutricionista\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Nutricionista\\Controllers\\PacientesController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:31:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Nutricionista\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\Nutricionista\\Nutricionista\\Models\\Paciente.cs",
+              "RelativeToolTip": "Nutricionista\\Models\\Paciente.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:29:16.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

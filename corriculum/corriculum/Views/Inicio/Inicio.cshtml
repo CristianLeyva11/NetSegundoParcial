@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Currículum</title>
+    <style>
+        footer {
+            display: none;
+        }
+
+        header {
+            display: none;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .cv {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 20px;
+        }
+
+        .cv-contenido {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .cv-titulo {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 15px;
+        }
+
+        .imagen img {
+            border-radius: 50%;
+            max-width: 150px;
+            margin-right: 20px;
+        }
+
+        .texto {
+            flex-grow: 1;
+        }
+
+        .texto-titulo h1 {
+            font-size: 2em;
+            margin: 0;
+            color: #007BFF;
+            text-align: center;
+        }
+
+        .texto-links {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+
+            .texto-links a {
+                color: #007BFF;
+                text-decoration: none;
+                padding: 10px 20px;
+                border: 2px solid #007BFF;
+                border-radius: 5px;
+                transition: background-color 0.3s, color 0.3s;
+            }
+
+                .texto-links a:hover {
+                    background-color: #007BFF;
+                    color: #fff;
+                }
+
+        .cv-parrafo {
+            margin: 10px 0;
+        }
+
+        .cv-parrafo-datos h2 {
+            font-size: 1.5em;
+            color: #007BFF;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+        }
+
+        .cv-parrafo-datos p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        .lista {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+            .lista ul {
+                flex: 1;
+                margin-right: 20px;
+            }
+
+                .lista ul li {
+                    line-height: 1.8;
+                }
+
+        .cv-parrafo-datos ul {
+            list-style: none;
+            padding: 0;
+        }
+
+            .cv-parrafo-datos ul li {
+                padding-left: 1.2em;
+                text-indent: -1.2em;
+                margin-bottom: 10px;
+            }
+
+                .cv-parrafo-datos ul li::before {
+                    content: '•';
+                    color: #007BFF;
+                    padding-right: 0.5em;
+                }
+    </style>
+</head>
+<body>
+    <div class="cv">
+        <div class="cv-contenido">
+            <div class="cv-titulo">
+                <div class="imagen">
+                    <img src="/assets/foto.jpeg" alt="Foto">
+                </div>
+                <div class="texto">
+                    <div class="texto-titulo">
+                        <h1>Cristian Alejandro Leyva Collazo</h1>
+                    </div>
+                    <br />
+                    <div class="texto-links">
+                        <a href="/Academica">Preparación académica</a>
+                        <a href="/Laboral">Experiencia Laboral</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cv-parrafo">
+                <div class="cv-parrafo-datos">
+                    <h2>Datos personales</h2>
+                    <p>
+                        Soy un desarrollador de software especializado en el desarrollo multiplataforma. Mi enfoque se ha centrado en la
+                        creación de software para diversas plataformas, abarcando desde aplicaciones de escritorio hasta soluciones móviles y
+                        web. A lo largo de mi trayectoria, he acumulado una sólida experiencia en:
+                    </p>
+                    <div class="lista">
+                        <ul>
+                            <li>Java</li>
+                            <li>JavaScript</li>
+                            <li>PHP</li>
+                            <li>Laravel</li>
+                        </ul>
+                        <ul>
+                            <li>MySQL</li>
+                            <li>Git</li>
+                            <li>Pascal</li>
+                            <li>MongoDB</li>
+                        </ul>
+                        <ul>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>Stylus</li>
+                            <li>JQuery</li>
+                        </ul>
+                        <ul>
+                            <li>Vue</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="cv-parrafo-datos">
+                    <h2>Habilidades y Aptitudes</h2>
+                    <ul>
+                        <li>Desarrollo de páginas web</li>
+                        <li>Desarrollo frontend</li>
+                        <li>Desarrollo backend</li>
+                        <li>Capacidad para trabajar en una estructura de equipo</li>
+                        <li>Capacidad para tomar decisiones y resolver problemas</li>
+                        <li>Capacidad de comunicación verbalmente con la gente dentro y fuera de una organización</li>
+                        <li>Conocimiento técnico relacionado del trabajo</li>
+                        <li>Dominio de paquetería de software</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

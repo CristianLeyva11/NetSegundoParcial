@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\roleassingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\roleassingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\authapi_901.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\authapi_901.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|c:\\users\\cristian leyva\\net\\authapi_901\\authapi_901\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3769D53-DB75-4BEF-8E75-731225E6D13B}|AuthAPI_901\\AuthAPI_901.csproj|solutionrelative:authapi_901\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleAssingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RoleAssingDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\RoleAssingDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RoleAssingDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\RoleAssingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:32:29.377Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RoleResponseDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\RoleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:26:02.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AuthAPI_901\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:20:07.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\CreateRoleDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\CreateRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:17:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\UserDetailDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\UserDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:53:08.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:43:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthAPI_901\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAALsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:27:57.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:24:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "AuthAPI_901\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:22:33.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthAPI_901\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T00:20:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI_901\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\appsettings.json",
+              "RelativeToolTip": "AuthAPI_901\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T23:57:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Program.cs",
+              "RelativeToolTip": "AuthAPI_901\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:55:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthAPI_901\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:52:24.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthAPI_901",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\AuthAPI_901.csproj",
+              "RelativeDocumentMoniker": "AuthAPI_901\\AuthAPI_901.csproj",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\AuthAPI_901.csproj",
+              "RelativeToolTip": "AuthAPI_901\\AuthAPI_901.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T23:48:34.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI_901\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Cristian Leyva\\net\\AuthAPI_901\\AuthAPI_901\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthAPI_901\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T23:49:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
